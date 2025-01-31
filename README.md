@@ -45,6 +45,7 @@ This project also aims to make this book available in as many languages as possi
 * Italiano - [Andrea Manzini](https://github.com/ilmanzo/)
 * العربية - [Fethienv](https://github.com/Fethienv)* 
 * Українська - [Arnaghad](https://github.com/Arnaghad). 
+
 [perrrekatypole](https://github.com/perrrekatypole), [ketronix-dev](https://github.com/ketronix-dev) - Thank you for your previous contributions to the Ukrainian translation!
 
 # Looking for Translators!
