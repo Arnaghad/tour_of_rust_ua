@@ -43,8 +43,9 @@ This project also aims to make this book available in as many languages as possi
 * Türkçe - [Rust Dili](https://github.com/RustDili/), [mertataol](https://github.com/mertataol), [doganid](https://github.com/doganid), [mhmmdd](https://github.com/mhmmdd)
 * Ελληνικά - [DoubleHyphen](https://github.com/DoubleHyphen/)
 * Italiano - [Andrea Manzini](https://github.com/ilmanzo/)
-* العربية - [Fethienv](https://github.com/Fethienv)
-* 🇺🇦 Українська - [perrrekatypole](https://github.com/perrrekatypole), [ketronix-dev](https://github.com/ketronix-dev) - Thank you for your contributions to the Ukrainian translation!
+* العربية - [Fethienv](https://github.com/Fethienv)* 
+* Українська - [Arnaghad](https://github.com/Arnaghad). 
+[perrrekatypole](https://github.com/perrrekatypole), [ketronix-dev](https://github.com/ketronix-dev) - Thank you for your previous contributions to the Ukrainian translation!
 
 # Looking for Translators!
 
